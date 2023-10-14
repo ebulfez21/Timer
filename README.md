@@ -2,7 +2,7 @@
 
 The Counter Application is a simple web-based tool that allows users to count, pause, and reset a timer. It's a basic implementation but can serve as a foundation for more complex timer applications or games.
 
-![Preview](https://github.com/ebulfez21/Timer/img/timer.png?raw=true)
+![Preview](https://github.com/ebulfez21/Timer/blob/main/img/time.jpg)
 
 ## Features
 
